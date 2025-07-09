@@ -9,7 +9,7 @@ md
 
 A modern, responsive portfolio website built with **Next.js**, **Tailwind CSS**, **TypeScript**, and **Radix UI components**. Designed for performance, scalability, and visual polish — perfect for developers, designers, and creatives.
 
-
+---
 ## 🚀 Tech Stack
 
 - [Next.js 15](https://nextjs.org/)
